@@ -14,6 +14,62 @@
 
 [The Mistakes I Made As a Beginner Programmer](<https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312>)
 
+Aware of mistakes that we might be making, spot signs of them, and avoid them.
+
+1. **Writing code without planning**
+
+   Writing quality programs is a process with a flow: **Think. Research. Plan. Write. Validate. Modify**
+
+   The actual writing of lines of code is probably only 10% of the whole process.
+
+   Do not think about programming as writing lines of code. Programming is a logic-based creativity that needs nurturing.
+
+2. **Planning too much before writing code**
+
+   Do not look for a perfact plan. That does not exist in the world of programming.
+
+   Look for a good-enough plan, something that you can use to get started.
+
+   **Waterfall Approach** 瀑布流
+
+3. **Underestimating the importance of code quality**
+
+   Unclear code is trash. It is not even recyclable.
+
+   Never go beyond the 80 character limit, ever.
+
+   Measuring programming progress by lines of code is like mueasuring aircraft building progress by weight.
+
+4. **Picking the first solution**
+
+   
+
+5. **Not quitting**
+
+6. **Not googling**
+
+7. **Not Using Encapsulation**
+
+8. **Planning for the Unknown**
+
+9. **Not Using the Right Data Structures**
+
+10. **Making Existing Code Worse**
+
+11. **Writing Comments About the Obvious Things**
+
+    Most comments can be replaced with better-named elements in your code.
+
+12. **Not Writing Tests**
+
+13. **Assuming That If Things are Working then Things are Right**
+
+    It's not a bug, It's a feature. — someone who forgot a test case.
+
+14. **Not Questioning Existing Code**
+
+15. 
+
 
 
 ## Tip
